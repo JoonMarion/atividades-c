@@ -1,3 +1,1 @@
-"# Python"  
-"# Python"  
-"# Python"  
+Atividades da faculdade em C;
